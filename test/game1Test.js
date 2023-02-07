@@ -1,5 +1,3 @@
-/** @format */
-
 const { loadFixture } = require('@nomicfoundation/hardhat-network-helpers');
 const { assert } = require('chai');
 
